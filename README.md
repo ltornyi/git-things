@@ -1,2 +1,2 @@
 # git-things
-For workflow demoes
+For workflow demos
